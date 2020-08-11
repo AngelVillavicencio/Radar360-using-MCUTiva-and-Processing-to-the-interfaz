@@ -1,0 +1,1 @@
+"./bluetooth.obj" "./main.obj" "./motor.obj" "./tm4c123gh6pm_startup_ccs.obj" "./ultrasonido.obj" "../tm4c123gh6pm.cmd" -llibc.a 
